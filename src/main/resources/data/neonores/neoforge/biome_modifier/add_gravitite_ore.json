@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "neonores:gravitite_ore",
+    "neonores:gravitite_ore_rare"
+  ],
+  "step": "underground_ores"
+}

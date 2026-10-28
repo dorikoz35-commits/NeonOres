@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "group": "gravitite_ingot",
+  "ingredient": [
+    {
+      "item": "neonores:gravitite"
+    },
+    {
+      "item": "neonores:gravitite_ore"
+    },
+    {
+      "item": "neonores:deepslate_gravitite_ore"
+    }
+  ],
+  "result": {
+    "id": "neonores:gravitite_ingot"
+  },
+  "experience": 1.0,
+  "cookingtime": 200
+}
